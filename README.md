@@ -15,8 +15,8 @@
   
 ## Plan ##
 
-Deadline: Monday 20th March
-Deliverables: Piano demonstration and Github (no app/website etc.)
+- Deadline: Monday 20th March
+- Deliverables: Piano demonstration and Github (no app/website etc.)
 
 To Do:
 - By Sunday 5th March: All complete Labs 1 and 2
